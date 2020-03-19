@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">180104072_Rakib</string>
+    <string name="About_Aust">The Ahsanullah University of Science and Technology(AUST) was founded by the Dhaka Ahsania Mission in 1995.
+        It is the only private University specially for Engineering.AUST is contributing in the engineering sectors of Bangladesh since its
+        establishment.</string>
+    <string name="About_Aust2">There are total Eight departments in AUST.Seven of them are of Engineering and the other one is
+        Bachelor of Business Administration(BBA).</string>
+    <string name="Admission1">First you have to apply for admission.Then according to SSC and HSC result the eligible applicants
+        list for admission test will be published.Then you have to sit for the admission test.After that a final merit list will
+        be published.</string>
+    <string name="Aadmission2">Eligible candidates will be called for subject choise.According to the merit list the candidates
+        will be able to choose departments.</string>
+</resources>

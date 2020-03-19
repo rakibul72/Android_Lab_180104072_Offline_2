@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TuitionActivity">
+
+    <TableRow
+        android:id="@+id/titleRowId"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:width="70dp"
+            android:textSize="30dp"
+            android:text="Department   "
+            android:textColor="@color/colorHead"
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="Total Cost"
+            android:textColor="@color/colorHead"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row1Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="CSE   "
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="8,34,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row2Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="EEE   "
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="8,34,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row3Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="Civil   "
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="8,34,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row4Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="Textile   "
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="8,34,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row5Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="Mechanical   "
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="8,34,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row6Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="IPE   "
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="8,34,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row7Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="Architecture"
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="10,35,500"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/Row8Id"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="BBA"
+            />
+
+        <TextView
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:text="6,34,500"
+            />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/tuitionbackButtonId"
+        android:textColor="@color/colorRed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back To Home"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        />
+
+</TableLayout>
